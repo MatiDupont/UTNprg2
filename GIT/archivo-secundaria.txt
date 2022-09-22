@@ -1,0 +1,2 @@
+Estoy en la rama secundaria
+Esta es la segunda linea del archivo

@@ -1,0 +1,2 @@
+Este es un archivo que se encuentra solo en la rama secundaria
+Vamos a hacer el Merge a la Master
